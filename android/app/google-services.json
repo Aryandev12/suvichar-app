@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787725108491",
+    "project_id": "suvichaar-99f6d",
+    "storage_bucket": "suvichaar-99f6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787725108491:android:563db9c0a895c60fa9ce0e",
+        "android_client_info": {
+          "package_name": "com.exafalir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGmwp5pp_-H9XImiOK1O4nBaoM3jQTdSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
